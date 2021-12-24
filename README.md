@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dhruvilmehta
-- 👀 I’m interested in Web Development and in technologies like Django,React ,Etc
+- 👀 I’m interested in Web Development and in technologies like Django,React,Java,Python,Etc
 - 🌱 I’m currently pursuing IT Engineering (3rd Year) from VCET,Vasai
 - 📫 Email ID : dhruvilmehta2606@gmail.com
 
