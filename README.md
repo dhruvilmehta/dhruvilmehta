@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dhruvilmehta
-- 🌱 I’m currently pursuing Master's of Science in Computer Science from California State University, Fullerton.
+- 🌱 Hello, I’m currently pursuing Master's of Science in Computer Science from California State University, Fullerton.
 - 👀 I have worked on technologies like ReactJs, NextJs, MERN Stack, Django, etc.
 - 🎉 Along with this, I have also done some open source contributions.
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dhruvil-mehta-1348651b6/)
