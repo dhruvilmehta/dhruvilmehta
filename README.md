@@ -14,7 +14,7 @@
 ## About Me
 
 <p style="font-size:7px;">
-Hi all, I am a MS CS student and a Part-time Teaching Associate at California State University, Fullerton. Currently practicing web-development and Java with some open-source contributions. Some of my projects include  My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections. I am currently looking for Full-time positions starting from May 2025.
+Hi all, I am an MS CS student and a Part-time Teaching Associate at California State University, Fullerton. Currently practicing web development and Java with some open-source contributions. Some of my projects include a Custom Pascal Compiler made from scratch, a replit-like application for remote code execution, a real-time stock exchange with an in-memory order book, a Zapier application for workflow automation, etc. I have also been contributing to some open-source repositories which can be seen in my profile. My ultimate goal is to make valuable contributions to the tech community while gaining experience and seeking meaningful connections. I am currently looking for Full-time positions starting from May 2025.
 </p>
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
